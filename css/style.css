@@ -1,0 +1,316 @@
+body {
+    margin: 0;
+    background: #f1f1f1;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #000;
+    background-image: url("header-bg.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100% 550px;
+}
+li 
+{
+    float: left;
+}
+a:link, a:visited
+{
+    display: block;
+    width: 80px;
+    height: 37px;
+    background-color: aliceblue;
+    color: cornflowerblue;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px;
+    margin-bottom: auto;
+    list-style-type: none;
+    padding-right: 23px;
+    
+}
+
+a:hover, a:active
+{
+    background-color: aqua;
+}
+
+#header{
+    padding-top: 1%;
+    width: 80%;
+    height: 30%;
+    margin: auto;
+    opacity: 0.9;
+}
+
+
+#divLogo{
+    float: left;
+    padding-right: 25%;
+    background-color: aliceblue;
+    width:0px;
+}
+
+#divMenu{
+    float: left;
+    width: 800px;
+    height: 61px;
+    background-color: aliceblue;
+    
+
+}
+
+/*li{
+    float: left;
+    color: deepskyblue;
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+}*/
+
+#ime{
+    font-weight: bold;
+    color: white;
+    margin:auto;
+    padding-top: 300px;
+    padding-left: 200px;
+    font-size: 50px;
+}
+
+#divCiscenje{
+    background-color: aqua;
+    height: 60px;
+    width: 1038px;
+    padding-left: 40px;
+}
+
+#ciscenje{
+    color: white;
+    padding-left: 100px;
+    height: 60px;
+    line-height: 60px;
+}
+/*
+.govornica
+{
+    margin-left: 400px;
+    margin-top: 10px;
+    position: absolute;
+}
+.govornica img
+{
+    width: 60%;
+}
+*/
+
+.broj{
+    color: white;
+    bottom: 300px;
+    height: 50px;
+    width: 840px;
+    align-content: center;
+    margin-left: 430px;
+    background-image: url("rsz_header-tel-bg.png");
+    background-size: 20% 40px;
+    background-repeat: no-repeat;
+}
+
+.broj p 
+{
+    margin-left: 40px;
+    padding-top: 10px;
+    
+}
+
+#ponude
+{
+    background-color: lightgray;
+    
+   
+}
+
+.IMGbx1
+{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 90px;
+    height: 400px;
+    width: 370px;
+    float: left;
+}
+
+.IMGbx2
+{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 400px;
+    width: 370px;
+    float: left;
+}
+
+.IMGbx3
+{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 400px;
+    width: 370px;
+    float: left;
+}
+
+.content1 ,.content2 , .content3
+{
+    text-align: center;
+}
+
+.btn1 , .btn2 , .btn3
+{
+    height: 40px;
+    width: 120px;
+    align-content: center;
+    margin-left: 120px;
+    background-color: #2A66C0 ;
+    color: white;
+}
+
+.velikodugme
+{
+    height: 50px;
+    width: 300px;
+    align-content: center;
+    margin-left: 550px;
+    margin-top: 20px;
+    background-color: #2A66C0;
+    color: white;
+}
+
+#info
+{
+    background-color: white;
+    padding-top: 30px;
+}
+
+.content4 
+{
+    float: left;
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+}
+
+.slikapas
+{
+    
+    margin-left: 690px;
+    
+}
+
+.psecedugme
+{
+    height: 40px;
+    width: 180px;
+    background-color: #2A66C0;
+    margin-top: 20px;
+    margin-left: 320px;
+    color: white;
+}
+
+
+
+.novine
+{
+    background-color: #2A66C0;
+    height: 100px;
+    
+}
+
+.txtnovine
+{
+    text-align: left;
+    color: white;
+    float: left;
+    margin-left: 180px;
+    
+}
+
+
+.dugmezaprijavu
+{
+    height: 40px;
+    width: 180px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 482px;
+    color: #2A66C0;
+}
+
+#footer
+{
+    background-color: dimgrey;
+    height: 300px;
+}
+
+.jedan
+{
+    float: left;
+    height: 160px;
+    width: 200px;
+    margin-left: 240px;
+    padding-top: 20px;
+    text-align: justify;
+    color: white;
+}
+
+.dva
+{
+    float: left;
+    padding-left: 30px;
+    height: 160px;
+    width: 200px;
+    margin-top: 20px;
+    color: white;
+}
+
+.tri
+{
+    float: left;
+    padding-left: 30px;
+    height: 160px;
+    width: 200px;
+    margin-top: 20px;
+    color: white;
+}
+
+.cetiri
+{
+ float: left;
+    padding-left: 30px;
+    height: 160px;
+    width: 200px;
+    margin-top: 20px;
+    color: white;   
+}
+
+
+
+
+
+
+
+
+
+
+
+/*.bg{
+    background-image: url("/images/header-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40%;
+    width: 100%;
+    background-size: cover;
+}*/
+
+
